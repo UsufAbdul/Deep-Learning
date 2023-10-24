@@ -1,0 +1,4 @@
+Improving the model, created 3 files which we try to see how to improve the model
+initialization of the weight and bias: using the Zero, random and HE initialization
+regularization: using the L2 and Dropout reg
+Gradient cheching : using the epsilon and gradapprox
